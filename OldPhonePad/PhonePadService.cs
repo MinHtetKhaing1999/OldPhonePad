@@ -64,7 +64,7 @@ namespace PhoneKeyPad
             return data;
 		}
 
-        private static char GetCharacter(char input, int pressCount)
+        private static char GetCharacter(char input, int pressCount) //will return the result based on press count
 		{
             return values.Where(x => x.Key == input).Select(x => x.Value[pressCount - 1]).FirstOrDefault();
 		}
