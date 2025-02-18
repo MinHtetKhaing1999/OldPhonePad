@@ -1,0 +1,13 @@
+.vs/PhoneKeyPad/xs/UserPrefs.xml
+obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+obj/Debug/net6.0/PhoneKeyPad.AssemblyInfo.cs
+obj/Debug/net6.0/PhoneKeyPad.AssemblyInfoInputs.cache
+obj/Debug/net6.0/PhoneKeyPad.assets.cache
+obj/Debug/net6.0/PhoneKeyPad.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net6.0/PhoneKeyPad.GlobalUsings.g.cs
+obj/PhoneKeyPad.csproj.nuget.dgspec.json
+obj/PhoneKeyPad.csproj.nuget.g.props
+obj/PhoneKeyPad.csproj.nuget.g.targets
+obj/project.assets.json
+obj/project.nuget.cache
+OldPhonePad.sln
