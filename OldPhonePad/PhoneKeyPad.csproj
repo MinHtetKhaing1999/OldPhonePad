@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="OldPhonePadTest\obj\Debug\net6.0\OldPhonePadTest.AssemblyInfo.cs" />
+    <Compile Remove="OldPhonePadTest\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Remove="OldPhonePadTest\obj\Debug\net6.0\OldPhonePadTest.GlobalUsings.g.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="OldPhonePadTest\.gitignore" />
+    <None Remove="OldPhonePadTest\obj\OldPhonePadTest.csproj.nuget.g.targets" />
+    <None Remove="OldPhonePadTest\obj\OldPhonePadTest.csproj.nuget.g.props" />
+    <None Remove="OldPhonePadTest\obj\Debug\net6.0\OldPhonePadTest.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Remove="OldPhonePadTest\obj\Debug\net6.0\OldPhonePadTest.AssemblyInfoInputs.cache" />
+    <None Remove="OldPhonePadTest\obj\Debug\net6.0\OldPhonePadTest.assets.cache" />
+    <None Remove="OldPhonePadTest\obj\Debug\net6.0\OldPhonePadTest.csproj.CoreCompileInputs.cache" />
+    <None Remove="OldPhonePadTest\bin\Debug\net6.0\CoverletSourceRootsMapping" />
+    <None Remove="OldPhonePadTest\obj\Debug\net6.0\OldPhonePadTest.csproj.FileListAbsolute.txt" />
+  </ItemGroup>
+</Project>

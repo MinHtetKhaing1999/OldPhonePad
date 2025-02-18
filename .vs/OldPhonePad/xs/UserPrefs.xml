@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{6B679524-0A93-4183-ADA8-2A7F14E38323}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OldPhonePadTest/UnitTest1.cs">
+    <Files>
+      <File FileName="PhonePadService.cs" Line="22" Column="17" />
+      <File FileName="OldPhonePadTest/Usings.cs" Line="2" Column="1" />
+      <File FileName="OldPhonePadTest/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OldPhonePad" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OldPhonePadTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+</Properties>

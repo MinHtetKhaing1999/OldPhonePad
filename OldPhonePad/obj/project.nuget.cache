@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KYaUS1WwmCX/FSh3RwKklOuFOrAEKa+zEQakYPiet2Gge4fhtKbG6n0vL6AIobm8ubvaM3h8uA3Rm1Hcqe3HOw==",
+  "success": true,
+  "projectFilePath": "/Users/minhtetkhaing/Projects/OldPhonePad/PhoneKeyPad.csproj",
+  "expectedPackageFiles": [
+    "/Users/minhtetkhaing/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/minhtetkhaing/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/minhtetkhaing/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

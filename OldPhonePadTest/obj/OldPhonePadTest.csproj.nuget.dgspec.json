@@ -1,0 +1,162 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/minhtetkhaing/Projects/OldPhonePad/OldPhonePadTest/OldPhonePadTest.csproj": {}
+  },
+  "projects": {
+    "/Users/minhtetkhaing/Projects/OldPhonePad/OldPhonePad/PhoneKeyPad.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/minhtetkhaing/Projects/OldPhonePad/OldPhonePad/PhoneKeyPad.csproj",
+        "projectName": "PhoneKeyPad",
+        "projectPath": "/Users/minhtetkhaing/Projects/OldPhonePad/OldPhonePad/PhoneKeyPad.csproj",
+        "packagesPath": "/Users/minhtetkhaing/.nuget/packages/",
+        "outputPath": "/Users/minhtetkhaing/Projects/OldPhonePad/OldPhonePad/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/minhtetkhaing/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/admin-rezeve/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/minhtetkhaing/Projects/OldPhonePad/OldPhonePadTest/OldPhonePadTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/minhtetkhaing/Projects/OldPhonePad/OldPhonePadTest/OldPhonePadTest.csproj",
+        "projectName": "OldPhonePadTest",
+        "projectPath": "/Users/minhtetkhaing/Projects/OldPhonePad/OldPhonePadTest/OldPhonePadTest.csproj",
+        "packagesPath": "/Users/minhtetkhaing/.nuget/packages/",
+        "outputPath": "/Users/minhtetkhaing/Projects/OldPhonePad/OldPhonePadTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/minhtetkhaing/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/admin-rezeve/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/minhtetkhaing/Projects/OldPhonePad/OldPhonePad/PhoneKeyPad.csproj": {
+                "projectPath": "/Users/minhtetkhaing/Projects/OldPhonePad/OldPhonePad/PhoneKeyPad.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
